@@ -9871,7 +9871,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:GodotSharp, Version=4.6.1.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:GodotSharp, Version=4.6.2.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_059DFE2539AC457D83E4BDE2199D1092"
@@ -11304,7 +11304,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:GodotSharp, Version=4.6.1.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:GodotSharp, Version=4.6.2.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_2E3B73A411B8F8467962CC9FA53F96A3"
@@ -15111,8 +15111,8 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_99F995911A0A4820977A0EAA5C77979F"
             {
-            "SourcePath" = "8:..\\..\\kemolof\\bin\\win\\data_kemolof_windows_x86_64\\mscordaccore_amd64_amd64_8.0.2526.11203.dll"
-            "TargetName" = "8:mscordaccore_amd64_amd64_8.0.2526.11203.dll"
+            "SourcePath" = "8:..\\..\\kemolof\\bin\\win\\data_kemolof_windows_x86_64\\mscordaccore_amd64_amd64_8.0.2626.16921.dll"
+            "TargetName" = "8:mscordaccore_amd64_amd64_8.0.2626.16921.dll"
             "Tag" = "8:"
             "Folder" = "8:_CB03A4F22A8B4505941BC6370D1006CB"
             "Condition" = "8:"
@@ -18600,15 +18600,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:けもろふ"
-        "ProductCode" = "8:{191F7859-840D-4F59-AD54-507205C3E5A8}"
-        "PackageCode" = "8:{4CF20A3C-5CAB-4948-A7B2-9763988FBC39}"
+        "ProductCode" = "8:{2A0D12D3-0587-4BB0-81E2-961D72D6F6C1}"
+        "PackageCode" = "8:{FD8F4BD0-DF97-48D0-8822-91C4571A0CA8}"
         "UpgradeCode" = "8:{FB16521A-4F28-4E62-A882-28756A134E25}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.1.3"
+        "ProductVersion" = "8:1.1.5"
         "Manufacturer" = "8:SHIRAISHI"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
